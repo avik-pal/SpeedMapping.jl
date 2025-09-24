@@ -1,4 +1,3 @@
-# SpeedMapping.jl
 ```@docs
-speedmapping
+SpeedMapping
 ```
